@@ -60,6 +60,7 @@
                 <th class="text-center">Total Cost: <?php echo $totalcost; ?></th>
                 <th class="text-center">Total Meal: <?php echo $totalmeal; ?></th>
                 <th class="text-center">Meal Rate: <?php echo number_format($meal_rate, 3); ?></th>
+                <th class="text-center">Cash on hand: <?php echo $cash_on_hand; ?></th>
             </thead>
           </table>
 
